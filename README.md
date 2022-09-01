@@ -1,12 +1,6 @@
-# TopicBubbles: an Interactive Topic Model Visualization
+# EE TopicBubbles: an Interactive Topic Model Visualization
 
-TopicBubbles is a D3-based bubble chart for topic model visualization that aims to present more intuitive and interactive topic model visualization. It was developed as part of the [WhatEvery1Says project(WE1S)](https://we1s.ucsb.edu).
-
-![alt text](img/screenshot.png "Logo Title Text 1")
-
-[[Working example](https://sihwapark.github.io/topic-bubbles/)] [[Video demo showing full functionality](https://vimeo.com/437987253)]
-
-
+EE TopicBubbles is a D3-based bubble chart for topic model visualization that aims to present more intuitive and interactive topic model visualization.
 
 ## How to Use
 
